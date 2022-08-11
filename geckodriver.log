@@ -1,0 +1,42 @@
+1660138608761	geckodriver	INFO	Listening on 127.0.0.1:41495
+1660138609354	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42851" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilew6gJ3D"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1660138614448	Marionette	INFO	Marionette enabled
+1660138614464	Marionette	INFO	Listening on port 42093
+WebDriver BiDi listening on ws://localhost:42851
+Read port: 42093
+1660138615913	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilew6gJ3D/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:42851/devtools/browser/d01bc4a7-9da1-42ae-8cb7-181142e8d05f
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1660139517325	geckodriver	INFO	Listening on 127.0.0.1:60399
+1660139517710	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40565" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefsgVAb"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1660139526836	Marionette	INFO	Marionette enabled
+1660139526853	Marionette	INFO	Listening on port 33203
+WebDriver BiDi listening on ws://localhost:40565
+Read port: 33203
+1660139527978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefsgVAb/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:40565/devtools/browser/8ba29d49-2a99-4575-ac04-cb2611e4378d
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.90dfca28.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/onboarding/sso_init.json HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript error: https://twitter.com/hashtag/harassment?src=hashtag_click, line 131: ChunkLoadError: Loading chunk shared~bundle.Conversation failed.
+(error: https://abs.twimg.com/responsive-web/client-web/shared~bundle.Conversation.958bca38.js)
+JavaScript error: https://twitter.com/hashtag/harassment?src=hashtag_click, line 131: ChunkLoadError: Loading chunk loader.richScribeAction failed.
+(error: https://abs.twimg.com/responsive-web/client-web/loader.richScribeAction.dcb6dba8.js)
+JavaScript error: https://twitter.com/hashtag/harassment?src=hashtag_click, line 131: ChunkLoadError: Loading chunk shared~bundle.Conversation failed.
+(error: https://abs.twimg.com/responsive-web/client-web/shared~bundle.Conversation.958bca38.js)
+JavaScript error: https://twitter.com/hashtag/harassment?src=hashtag_click, line 131: ChunkLoadError: Loading chunk bundle.NetworkInstrument failed.
+(error: https://abs.twimg.com/responsive-web/client-web/bundle.NetworkInstrument.ae0925a8.js)
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.90dfca28.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/attribution/event.json HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.90dfca28.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.90dfca28.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/strato/column/None/1297540938915512322,Linux%2FFirefox,pushNotifications/clients/permissionsState HTTP-0 codes:[1004] trace_ids:[null]
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
